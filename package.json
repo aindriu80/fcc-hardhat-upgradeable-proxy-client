@@ -1,4 +1,8 @@
 {
+  "name": "fcc-hardhat-upgradable-proxy-client",
+  "version": "0.1.0",
+  "author": "Aindriú Mac Giolla Eoin",
+  "private": true,
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers",
     "@nomiclabs/hardhat-etherscan": "^3.1.4",
